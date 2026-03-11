@@ -1,12 +1,14 @@
 /* styles.css */
 
-h1 { .major-mono-display-regular {
+h1 { 
+  .major-mono-display-regular {
   font-family: "Major Mono Display", monospace;
   font-weight: 400;
   font-style: normal;
 }
 
-h2 { .major-mono-display-regular {
+h2 { 
+  .major-mono-display-regular {
   font-family: "Major Mono Display", monospace;
   font-weight: 400;
   font-style: normal;
